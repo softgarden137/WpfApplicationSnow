@@ -1,7 +1,7 @@
 WpfApplcationSnow
 =================
 
-IronPython2.7 WPF Application
+IronPython 2.7 WPF Application
 
 ## [View Demo &rarr;](http://softgarden137.github.io/samples/snow)
 
