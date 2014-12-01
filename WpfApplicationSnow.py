@@ -5,7 +5,7 @@ from System.Windows.Markup import XamlReader
 from System import Random, Math
 from System.Windows import Point
 from System.Windows.Controls import Canvas, UserControl
-from System.Windows.Media import CompositionTarget, Brushes
+from System.Windows.Media import CompositionTarget
 
 def LoadXaml_str(filename):
     f = open(filename)
