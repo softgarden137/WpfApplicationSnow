@@ -1,5 +1,5 @@
-WpfApplcationSnow
-=================
+WpfApplicationSnow
+==================
 
 IronPython 2.7 WPF Application
 
